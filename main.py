@@ -1,6 +1,14 @@
-"""Add main functionality"""
+"""Main functioality
 
+Added on remote side.
+"""
 
 def main():
-    print("Hello World!")
+    hello_world()
+    goodby_world()
+
+def hello_world():
+    print("Hellow World!")
+
+def goodby_world():
     print("Goodby World!")
